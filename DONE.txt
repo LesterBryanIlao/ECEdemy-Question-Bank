@@ -1,0 +1,55 @@
+FDG-Jamie
+ELEX - Electricity and Magnetism Questions (Can be Imported / Edited) DONE
+ELEX - Electricity and Magnetism Answers 1-264 (Can be Imported) DONE
+>>
+
+ESAT - Signals and Systems Questions (Can be Imported / Edited) DONE
+ESAT - Signals and Systems Answers 265-464 (Can be Imported) DONE
+>>
+
+GEAS - Engineering Economy Questions (For Cleaning) DONE
+GEAS - Engineering Economy Answers 465-756 (For Cleaning) DONE
+
+MATH - Integral Calculus Questions (Checked For Missing Questions) DONE
+MATH - Integral Calculus Anwers 757-1144 DONE
+
+MATH - Probability and Statistics Questions DONE
+MATH - Probability and Statistics Answers 1145-1436 DONE
+
+
+FDG-Irish
+ELEX - ECAD Questions (Edited) DONE
+ELEX - ECAD Answers 1437-1576 DONE
+>>
+
+ELEX - ESAD Questions DONE
+ELEX - ESAD Answers 1577-1712 DONE
+>>
+
+ELEX - Logic Questions	DONE
+ELEX - Logic Answers 1713-1864 DONE
+>>
+
+ESAT - Transma Questions DONE
+ESAT - Transma Answers 1865-2344 DONE
+>>
+
+FDG-Justin
+ELEX Final Questions (SHOULD BE EDITED - Duplicated Questions)
+ELEX Final Answers 2345-2900 
+>>
+
+ESAT Final Questions (SHOULD BE EDITED - Duplicated Questions)
+ESAT Final Answers 2901-4296
+>>
+
+GEAS Final Questions (SHOULD BE EDITED - Duplicated Questions)
+GEAS Final Answers 4297-4888
+>>
+
+NEW-ADMATH-Answers Questions (SHOULD BE EDITED - Duplicated Questions)
+NEW-ADMATH-Answers 4889-5088 
+>>
+
+
+Centroid, Arc Length, Moment of Inertia and Work

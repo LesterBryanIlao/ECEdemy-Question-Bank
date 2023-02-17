@@ -1,0 +1,37 @@
+A. To check kung may mga questions sa *Answers.xlsx file na wala sa Questions.xlsx, use the cleaner.py
+    Step 1: Go to the last few lines of the cleaner.py
+    Step 2: Change the value of folder_name with the directory nung folder kung saan nakalagay yung Questions.xlsx file.
+    Step 3: Run cleaner.py
+    Step 4: Look for the auto-generated csv file, makikita niyo yung mga questions Answers.xlsx na wala Questions.xlsx file
+            Note: Sinama ko na yung choice_number para madali hanapin sa excel file.
+    Step 5: Re-run cleaner.py para macheck kung wala ng missing questions.
+            Note: Delete niyo yung laman nung csv file or delete niyo mismo yung csv file para mareset kasi madadagdag lang siya sa existing csv file kapag di dinelete.
+    NOTE:
+    - Check niyo output nung cleaner.py, makikita niyo kung ilang choices yung may missing and kung anong file yung pinagbasehan.
+
+B. Filename/Folder Convention
+    - For Questions, kahit anong filename basta yung dulo ay "strictly" *Questions.xlsx file
+        (ex. ELEX Final Questions.xlsx)
+    - For Answers, kahit anong filename basta yung dulo ay "strictly" *Answers.xlsx file
+        (ex. ELEX Final Answers.xlsx)
+    - Yung folder na paglalagyan ng Questions.xlsx and Answers.xlsx file, as much as possible walang spaces. 
+      You can use - or _ for word separtion.
+        (ex. USE FDG-Irish or FDG_Irish INSTEAD OF FDG Irish)
+
+C. File Structure
+    - Yung directory nung Folder for Questions and Answers must be same level with cleaner.py
+    EXAMPLE:
+
+    ECEdemyQuestionBank/
+    ├── FDG-Irish/
+    │       ├── ELEX - ECAD Answers.xlsx
+    │       ├── ELEX - ECAD Questions.xlsx
+    │       └── ...
+    ├── FDG-Justin/
+    │       ├── NEW-ADMATH-Answers.csv
+    │       ├── NEW-ADMATH-Answers.xlsx
+    │       ├── NEW-ADMATH-Questions.xlsx
+    │       └──...
+    ├── cleaner.py
+    ├── DONE.txt
+    └── Instructions.txt
